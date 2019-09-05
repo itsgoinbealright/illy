@@ -4,7 +4,8 @@ import illy from "./images/illy.jpg";
 import "./App.css";
 
 var style = {
-  height: "100vh"
+  height: "100vh",
+  width: "100vw"
 };
 
 function App() {
